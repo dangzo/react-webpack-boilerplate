@@ -1,0 +1,11 @@
+.DS_Store
+
+# SublimeText
+.sublime-workspace
+.sublime-project
+
+# JetBrains IDE
+.idea
+
+node_modules
+build
